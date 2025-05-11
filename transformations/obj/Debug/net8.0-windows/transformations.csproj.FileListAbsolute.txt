@@ -1,0 +1,16 @@
+E:\Projects\programing-projects\c#\graphics\transformations\bin\Debug\net8.0-windows\transformations.exe
+E:\Projects\programing-projects\c#\graphics\transformations\bin\Debug\net8.0-windows\transformations.deps.json
+E:\Projects\programing-projects\c#\graphics\transformations\bin\Debug\net8.0-windows\transformations.runtimeconfig.json
+E:\Projects\programing-projects\c#\graphics\transformations\bin\Debug\net8.0-windows\transformations.dll
+E:\Projects\programing-projects\c#\graphics\transformations\bin\Debug\net8.0-windows\transformations.pdb
+E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\transformations.Form1.resources
+E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\transformations.csproj.GenerateResource.cache
+E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\transformations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\transformations.AssemblyInfoInputs.cache
+E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\transformations.AssemblyInfo.cs
+E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\transformations.csproj.CoreCompileInputs.cache
+E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\transformations.dll
+E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\refint\transformations.dll
+E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\transformations.pdb
+E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\transformations.genruntimeconfig.cache
+E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\ref\transformations.dll
