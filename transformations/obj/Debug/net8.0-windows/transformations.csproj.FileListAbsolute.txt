@@ -14,3 +14,4 @@ E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-win
 E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\transformations.pdb
 E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\transformations.genruntimeconfig.cache
 E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\ref\transformations.dll
+E:\Projects\programing-projects\c#\graphics\transformations\obj\Debug\net8.0-windows\transformations.sourcelink.json
