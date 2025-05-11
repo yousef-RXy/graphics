@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("transformations")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1e9a7b9ee64245eb0b7c592f0edcc193a1d91fe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa3965b15f9a011320a7cce3dfc6dfa52347ff07")]
 [assembly: System.Reflection.AssemblyProductAttribute("transformations")]
 [assembly: System.Reflection.AssemblyTitleAttribute("transformations")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

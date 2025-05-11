@@ -5,11 +5,9 @@ namespace transformations;
 public partial class Form1 : Form
 {
     private TextBox logBox;
-    private List<string> clickLogOrder = new();
     private List<CheckBox> allCheckBoxes = new();
     private Dictionary<TrackBar, int> sliderDefaults = new();
     private List<Control> controlPairs = new();
-    private ComboBox comboReflectBox;
     private Label lblReflectAxis;
 
     public Form1()

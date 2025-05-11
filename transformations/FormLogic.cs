@@ -4,6 +4,8 @@ namespace transformations;
 
 public class FormLogic
 {
+    public static List<string> clickLogOrder = new();
+    public static ComboBox comboReflectBox;
     public static TrackBar trackRotation, trackTransX, trackTransY, trackScaleX, trackScaleY, trackShearX, trackShearY;
     public static PictureBox pictureBox;
     public static void ApplyTransformations()

@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "E:\\Projects\\programing-projects\\c#\\graphics\\transformations\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35F6B0A0-1474-4CF4-BB90-7DA04E0AD9DF}|transformations.csproj|e:\\projects\\programing-projects\\c#\\graphics\\transformations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35F6B0A0-1474-4CF4-BB90-7DA04E0AD9DF}|transformations.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{35F6B0A0-1474-4CF4-BB90-7DA04E0AD9DF}|transformations.csproj|e:\\projects\\programing-projects\\c#\\graphics\\transformations\\formlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35F6B0A0-1474-4CF4-BB90-7DA04E0AD9DF}|transformations.csproj|solutionrelative:formlogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35F6B0A0-1474-4CF4-BB90-7DA04E0AD9DF}|transformations.csproj|E:\\Projects\\programing-projects\\c#\\graphics\\transformations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{35F6B0A0-1474-4CF4-BB90-7DA04E0AD9DF}|transformations.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35F6B0A0-1474-4CF4-BB90-7DA04E0AD9DF}|transformations.csproj|e:\\projects\\programing-projects\\c#\\graphics\\transformations\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35F6B0A0-1474-4CF4-BB90-7DA04E0AD9DF}|transformations.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35F6B0A0-1474-4CF4-BB90-7DA04E0AD9DF}|transformations.csproj|e:\\projects\\programing-projects\\c#\\graphics\\transformations\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35F6B0A0-1474-4CF4-BB90-7DA04E0AD9DF}|transformations.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,52 +27,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "E:\\Projects\\programing-projects\\c#\\graphics\\transformations\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "E:\\Projects\\programing-projects\\c#\\graphics\\transformations\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T17:16:33.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "FormLogic.cs",
               "DocumentMoniker": "E:\\Projects\\programing-projects\\c#\\graphics\\transformations\\FormLogic.cs",
               "RelativeDocumentMoniker": "FormLogic.cs",
               "ToolTip": "E:\\Projects\\programing-projects\\c#\\graphics\\transformations\\FormLogic.cs",
               "RelativeToolTip": "FormLogic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-11T17:12:23.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "E:\\Projects\\programing-projects\\c#\\graphics\\transformations\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Projects\\programing-projects\\c#\\graphics\\transformations\\Form1.cs [Design]",
-              "RelativeToolTip": "Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T20:27:47.724Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "E:\\Projects\\programing-projects\\c#\\graphics\\transformations\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "E:\\Projects\\programing-projects\\c#\\graphics\\transformations\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T20:23:30.596Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "E:\\Projects\\programing-projects\\c#\\graphics\\transformations\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "E:\\Projects\\programing-projects\\c#\\graphics\\transformations\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-10T20:18:51.796Z",
               "EditorCaption": ""
             }
           ]
